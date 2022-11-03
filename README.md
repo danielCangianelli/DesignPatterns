@@ -10,7 +10,7 @@
 
 <p align="justify">
 Comumente um código que controla o estado em um determinado processo da aplicação pode se tornar o lar para imensos e complexos condicionais, assim como 
-outros problemas comuns, esse problema também conta com um *design pattern*, estamos falando do **State**.
+outros problemas comuns, esse problema também conta com um *design pattern*, estamos falando do <strong>State</strong>.
 
 O padrão State pode ser reconhecido por métodos que alteram seu comportamento, dependendo do estado dos objetos, controlados externamente.
 </p>
